@@ -1,6 +1,9 @@
 # 💫 About Me:
+
 👋 Hi, I am Hessam Ghassemi, a passionate Software Developer from Tehran, Iran.
-🌱 I am currently boosting my skills in Django, passionate about Golang and embracing the challenges of web development and automation.  
+
+🌱 I am currently boosting my skills in Django, passionate about Golang and embracing the challenges of web development and automation.
+
 💬 Ask me about Python, Golang, Django, or anything related to web development and software engineering. I love to share my experiences and learn from others!
 
 # 💻 Tech Stack:
