@@ -17,7 +17,7 @@
 I am actively seeking job opportunities in Europe, particularly in Germany or Finland, in the fields of web development, web automation, or other areas of software development.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hessamghassemi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesam0x47/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23c20006.svg?logo=gmail&logoColor=white)](mailto:s.hesam.ghasemi@gmail.com)
 
 
