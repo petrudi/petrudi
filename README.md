@@ -26,7 +26,7 @@ I am actively seeking job opportunities in Europe, particularly in Germany or Fi
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=Hesam0x47&show_icons=true&theme=algolia&line_height=40">
   <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hesam0x47&theme=algolia">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Hesam0x47&show_icons=true&locale=en&theme=radical&line_height=20&layout=compact" />
+  <img  src= "https://streak-stats.demolab.com/?user=Hesam0x47&theme=radical">
 </p>
 
 
