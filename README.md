@@ -17,13 +17,13 @@
 I am actively seeking job opportunities in Europe, particularly in Germany or Finland, in the fields of web development, web automation, or other areas of software development.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesam0x47/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petrudi/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23c20006.svg?logo=gmail&logoColor=white)](mailto:s.hesam.ghasemi@gmail.com)
 
 
 ## 📈 Stats:
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Hesam0x47&show_icons=true&theme=algolia&line_height=40">
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hesam0x47&theme=algolia">
-  <img  src = "https://nirzak-streak-stats.vercel.app/?user=Hesam0x47&theme=algolia">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=petrudi&show_icons=true&theme=algolia&line_height=40">
+  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=petrudi&theme=algolia">
+  <img  src = "https://nirzak-streak-stats.vercel.app/?user=petrudi&theme=algolia">
 </p>
